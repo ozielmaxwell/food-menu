@@ -1,7 +1,7 @@
 const menu = [
   {
     id: 1,
-    title: 'buttermilk pancakes',
+    title: 'butter milk pancakes',
     category: 'breakfast',
     price: 15.99,
     img: '/images/item-1.jpeg',
@@ -67,6 +67,14 @@ const menu = [
     id: 9,
     title: 'quarantine buddy',
     category: 'shakes',
+    price: 16.99,
+    img: '/images/item-9.jpeg',
+    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+  },
+  {
+    id: 10,
+    title: 'Coffee',
+    category: 'Midnight',
     price: 16.99,
     img: '/images/item-9.jpeg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
