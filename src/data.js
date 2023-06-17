@@ -73,7 +73,7 @@ const menu = [
   },
   {
     id: 10,
-    title: 'Coffee',
+    title: 'Coffee time',
     category: 'Midnight',
     price: 16.99,
     img: '/images/item-9.jpeg',
